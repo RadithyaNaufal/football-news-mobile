@@ -50,7 +50,7 @@ class MyHomePage extends StatelessWidget {
                   const Padding(
                     padding: EdgeInsets.only(top: 16.0),
                     child: Text(
-                      'Welcome to Football News',
+                      'Welcome To Football News',
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 18.0,
